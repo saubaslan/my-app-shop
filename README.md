@@ -1,6 +1,6 @@
-# shop project Intern
+# Shop Project Interner
 
-A new Flutter project use Bloc.
+A new Flutter project using Bloc.
 
 ## Getting Started
 
